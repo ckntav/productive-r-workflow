@@ -1,0 +1,2 @@
+"0","# Display the table"
+"0","datatable(data, options = list(pageLength = 5), filter = ""top"")"
